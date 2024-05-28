@@ -3,7 +3,7 @@
 <h3 align="center">Agile Coach | Scrum Master | Desarrollador Backend</h3>
 
 <p align="center">
-  <img src="URL_DE_TU_FOTO" alt="Marco Cristóbal" width="200" height="200">
+  <img src="https://avatars.githubusercontent.com/u/1091238?s=400&u=a0330aecb1cfe1ebd0ee73682c8ab97239ace767&v=4" alt="Marco Cristóbal" width="200" height="200">
 </p>
 
 <p align="center">

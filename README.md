@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Marco Cristóbal 👋</h1>
+<h1 align="center">¡Hola! Soy Marco Cristobal 👋</h1>
 
 <h3 align="center">Agile Coach | Scrum Master | Desarrollador Backend</h3>
 
